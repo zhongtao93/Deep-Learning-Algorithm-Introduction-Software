@@ -4,7 +4,7 @@
 
 Using C++ and QML to develop it.
 
-You can read User Manual in User_manual--Chinese.PDF, There is a Detailed usage.
+You can read User Manual in [User_manual--Chinese.PDF](https://github.com/zhongtao93/Deep-Learning-Algorithm-Introduction-Software/blob/master/User_Manual--Chinese.pdf), There is a Detailed usage.
 
 #Installation instructions
   1.Install [caffe](http://caffe.berkeleyvision.org/installation.html)
