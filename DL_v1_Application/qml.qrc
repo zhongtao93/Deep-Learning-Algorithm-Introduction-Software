@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>train_or_test.js</file>
+        <file>Resources_imgs/interface.png</file>
+        <file>Resources_imgs/deep-learning-pic-768x495.png</file>
+        <file>Resources_imgs/news-and-coffee3.jpg</file>
+        <file>temp.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,42 @@
+Rectangle{
+            id: _Dateset
+            FileDialog{
+                id: imagedata_fileDialog
+                title: "Please choose your images root folder"
+                visible: false
+                onAccepted: {
+                   console.log("get the folder path:")
+                   console.log(imagedata_fileDialog.folder)//unfinished
+                    //why is 'open",not 'choose'?
+                }
+                onRejected: {
+                    imagedata_fileDialog.close()
+                }
+
+               // Component.onCompleted: visible = true;
+            }
+
+            Button{
+                id: _open_img_folder
+                x: _main.width / 10
+                y: _main.height / 3
+                width: _main.width / 6
+                height: _main.height / 10
+                text: "choose images folder"
+                onClicked: {
+                    imagedata_fileDialog.open()
+                }
+            }
+            
+            Button{
+                id: _convert_date
+                x: _main.width / 10 *3
+                y: _main.height / 3
+                width: _main.width / 6
+                height: _main.height / 10
+                text: "convert to LMDB"
+                onClicked: {
+
+                }
+            }
+        }
