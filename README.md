@@ -9,7 +9,7 @@ You can read User Manual in [User_manual--Chinese.PDF](https://github.com/zhongt
 #Installation instructions
   1.Install [caffe](http://caffe.berkeleyvision.org/installation.html)
   
-  2.Modify the path of caffe and opencv in /DL_v1_Application/DL_v1_Application.pro
+  2.Modify the path of caffe and opencv in [/DL_v1_Application/DL_v1_Application.pro](https://github.com/zhongtao93/Deep-Learning-Algorithm-Introduction-Software/blob/master/DL_v1_Application/DL_v1_Application.pro)
   
   3.Open it in QT5(QT4 may not support) and build it.
   
