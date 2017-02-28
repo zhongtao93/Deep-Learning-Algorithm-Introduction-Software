@@ -1,7 +1,7 @@
 # Deep-Learning-Algorithm-Introduction-Software
+![image](https://github.com/zhongtao93/Deep-Learning-Algorithm-Introduction-Software/blob/master/DL_v1_Application/Resources_imgs/interface.bmp)
 
-#Ubuntu 15.04 + QT_5 + [caffe.rc2](https://github.com/BVLC/caffe/releases)
-
+#Ubuntu 15.04 + QT_5 + [caffe.rc2](https://github.com/BVLC/caffe/releases
 Using C++ and QML to develop it.
 
 You can read User Manual in [User-manual-In-Chinese.PDF](https://github.com/zhongtao93/Deep-Learning-Algorithm-Introduction-Software/blob/master/User-Manual-In-Chinese.pdf), There is a Detailed usage.
@@ -16,3 +16,11 @@ You can read User Manual in [User-manual-In-Chinese.PDF](https://github.com/zhon
   4.Encountering any tangled problem you can comment here or connect me: zhongtaovip@163.com 
 #Quick description
 It is designed for deep learning beginners who barely have basic knowledges on deep learning. It is based on Caffe framework.By using this software, users can complete a variety of different deep learning experiments on a user-friendly interface. The software can easily analyze the deep network structure and exhibit the training and testing process of deep learning algorithm with the necessary dataset and the corresponding network structure profiles provided by users.
+
+Convert data:
+
+![image](https://github.com/zhongtao93/Deep-Learning-Algorithm-Introduction-Software/blob/master/DL_v1_Application/Resources_imgs/convertdata.bmp)
+
+Network:
+
+![image](https://github.com/zhongtao93/Deep-Learning-Algorithm-Introduction-Software/blob/master/DL_v1_Application/Resources_imgs/network.bmp)
